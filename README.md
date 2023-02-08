@@ -15,5 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on [...](https://github.com/JasmineKhalimova/ReactPortfolio)
 
-![daftpunktocat-guy](https://user-images.githubusercontent.com/34685374/217534866-a8a353e2-8148-43a3-ac24-897fa50881e2.gif)
+![react](https://user-images.githubusercontent.com/34685374/217536974-c0931347-ac6b-4906-84f5-2505435de8b3.gif) 
+
+![linux](https://user-images.githubusercontent.com/34685374/217537087-26b5536c-051e-4c06-89c7-ee35ee4019b7.gif)
+
+![javascript](https://user-images.githubusercontent.com/34685374/217537673-302f208a-2b78-4755-a4e9-00516cf2370b.gif)
+
+![daftpunktocat-guy](https://user-images.githubusercontent.com/34685374/217537868-ee574cdf-0e2b-4fe7-b59c-a4634beec750.gif)
+
+
+
+🌱 I’m currently learning 
+
+![php](https://user-images.githubusercontent.com/34685374/217537759-ee9d37ea-7050-424a-af43-8748243b043f.gif)
+
+![react](https://user-images.githubusercontent.com/34685374/217537825-c35383d8-be23-444d-9303-c6be92234d97.gif)
+
+
+📫 How to reach me
+![dino](https://user-images.githubusercontent.com/34685374/217535711-610e7747-ecc0-48a8-a712-07e4b72bc87c.gif)
+
+
