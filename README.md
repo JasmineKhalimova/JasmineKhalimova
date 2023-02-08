@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-guy.gif
+
+![daftpunktocat-guy](https://user-images.githubusercontent.com/34685374/217534866-a8a353e2-8148-43a3-ac24-897fa50881e2.gif)
