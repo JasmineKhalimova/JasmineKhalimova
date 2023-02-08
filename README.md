@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on [...](https://github.com/JasmineKhalimova/ReactPortfolio)
 
-![react](https://user-images.githubusercontent.com/34685374/217536974-c0931347-ac6b-4906-84f5-2505435de8b3.gif  =50x50) 
+![react](https://user-images.githubusercontent.com/34685374/217536974-c0931347-ac6b-4906-84f5-2505435de8b3.gif =50x50) 
 
 ![linux](https://user-images.githubusercontent.com/34685374/217537087-26b5536c-051e-4c06-89c7-ee35ee4019b7.gif)
 
